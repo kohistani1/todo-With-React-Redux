@@ -1,0 +1,35 @@
+.input {
+  background-color: #888;
+  max-width: 60%;
+  margin: 0rem auto 5rem;
+  padding: 1rem 1rem;
+  border-radius: 5px;
+  z-index: 1000;
+}
+.input input {
+  width: 95%;
+}
+
+.note-inp {
+  max-width: 90%;
+}
+
+.note-input input {
+  width: 60%;
+  margin-left: 0;
+}
+
+.name-input {
+  max-width: 90%;
+}
+.name-input input {
+  width: 60%;
+  margin-left: 0;
+}
+.hidden {
+  display: none;
+}
+h4 {
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+}

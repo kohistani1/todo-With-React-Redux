@@ -1,0 +1,26 @@
+.note {
+  display: flex;
+  justify-content: space-between;
+  background-color: #888;
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  border-radius: 5px;
+  text-align: left;
+}
+.right {
+  max-width: 3rem;
+  margin-right: 2rem;
+  align-self: center;
+  display: flex;
+  justify-content: space-around;
+}
+p.text {
+  text-decoration: none;
+}
+
+.date {
+  font-size: 1.3rem;
+  font-style: italic;
+}
